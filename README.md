@@ -39,16 +39,6 @@
 
 * Responsive web design
 
-### Custom Enhancements
-
-* Update campground photos when editing campgrounds
-
-* Update personal information on profile page
-
-* Improve image load time on the landing page using Cloudinary
-
-* Use Helmet to strengthen security
-
 ## Install
 
 ```sh
